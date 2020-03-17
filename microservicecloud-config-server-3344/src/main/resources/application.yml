@@ -1,0 +1,26 @@
+server: 
+  port: 3344 
+  
+spring:
+  application:
+    name:  microservicecloud-config-server
+#  cloud:
+#    config:
+#      server:
+#        git:
+#          uri: git@github.com:zzyybs/microservicecloud-config.git #GitHub上面的git仓库名字
+  profiles:
+    active: subversion
+  cloud:
+    config:
+      server:
+        svn:
+          uri: http://svn.pde.com.cn/svn/AMS_P9/project/9.5.2/ZGDK54S/DOC/ymlFiles #GitHub上面的git仓库名字
+#          search-paths: "{application}" #按应用名搜索问文件夹
+          username: zhangrq
+          password: passw0rd
+#          default-label: DOC   #默认目录
+          default-label: /
+
+# http://config-server-3344.com:3344/microservicecloud-config-consumer-dev.yml
+

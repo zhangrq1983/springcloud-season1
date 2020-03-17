@@ -1,0 +1,11 @@
+server:
+  port: 80
+  
+  
+eureka:
+  client:
+    register-with-eureka: false
+    #fetch-registry: true #这一项必须为true,表示检索注册中心的所有服务。如果为false则无法发现服务。No instances available for MICROSERVICECLOUD-CONFIG-DEPT-CLIENT
+    service-url: 
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+#      defaultZone: http://localhost:7001/eureka

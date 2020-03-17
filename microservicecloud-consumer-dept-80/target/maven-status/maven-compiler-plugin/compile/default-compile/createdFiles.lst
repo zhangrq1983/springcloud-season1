@@ -1,0 +1,5 @@
+org\example\myrule\RandomRule_ZY.class
+org\example\springcloud\cfgbeans\ConfigBean.class
+org\example\springcloud\controller\DeptController_Consumer.class
+org\example\springcloud\Consumer_Dept_80_App.class
+org\example\myrule\MySelfRule.class
