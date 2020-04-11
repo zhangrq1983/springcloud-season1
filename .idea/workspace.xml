@@ -1,11 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fd51c9e-7386-4077-b437-ce26cd1480a6" name="Default Changelist" comment="" />
+    <list default="true" id="2fd51c9e-7386-4077-b437-ce26cd1480a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/src/main/java/org/example/myrule/MySelfRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/src/main/java/org/example/myrule/MySelfRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/src/main/java/org/example/myrule/RandomRule_ZY.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/src/main/java/org/example/myrule/RandomRule_ZY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/src/main/java/org/example/springcloud/Config_Consumer_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/src/main/java/org/example/springcloud/Config_Consumer_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/src/main/java/org/example/springcloud/cfgbeans/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/src/main/java/org/example/springcloud/cfgbeans/ConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/src/main/java/org/example/springcloud/controller/DeptController_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/src/main/java/org/example/springcloud/controller/DeptController_Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/classes/org/example/myrule/MySelfRule.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/classes/org/example/myrule/MySelfRule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/classes/org/example/myrule/RandomRule_ZY.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/classes/org/example/myrule/RandomRule_ZY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/classes/org/example/springcloud/Config_Consumer_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/classes/org/example/springcloud/Config_Consumer_App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/classes/org/example/springcloud/cfgbeans/ConfigBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/classes/org/example/springcloud/cfgbeans/ConfigBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/classes/org/example/springcloud/controller/DeptController_Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/classes/org/example/springcloud/controller/DeptController_Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-consumer/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-consumer-client-80/target/microservicecloud.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/microservicecloud-config-eureka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/microservicecloud-config-eureka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/src/main/java/org/example/springcloud/Config_Eureka_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/java/org/example/springcloud/Config_Eureka_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/target/classes/org/example/springcloud/Config_Eureka_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/classes/org/example/springcloud/Config_Eureka_App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-eureka/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/microservicecloud.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/microservicecloud-config-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/microservicecloud-config-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/java/org/example/springcloud/Config_Provider_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/org/example/springcloud/Config_Provider_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/java/org/example/springcloud/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/org/example/springcloud/controller/DeptController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/java/org/example/springcloud/dao/DeptDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/org/example/springcloud/dao/DeptDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/java/org/example/springcloud/service/DeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/org/example/springcloud/service/DeptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/java/org/example/springcloud/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/java/org/example/springcloud/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/resources/mybatis/mapper/DeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/src/main/resources/mybatis/mybatis.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/mybatis/mapper/DeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/mybatis/mybatis.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/org/example/springcloud/Config_Provider_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/org/example/springcloud/Config_Provider_App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/org/example/springcloud/controller/DeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/org/example/springcloud/controller/DeptController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/org/example/springcloud/dao/DeptDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/org/example/springcloud/dao/DeptDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/org/example/springcloud/service/DeptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/org/example/springcloud/service/DeptService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/classes/org/example/springcloud/service/impl/DeptServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/classes/org/example/springcloud/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-eureka-client-7001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-config-provider/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-config-dept-client-8001/target/microservicecloud.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/org/example/springcloud/Provider_Dept_8001_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/src/main/java/org/example/springcloud/Provider_Dept_8001_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/org/example/springcloud/Provider_Dept_8001_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/microservicecloud-provider-dept-8001/target/classes/org/example/springcloud/Provider_Dept_8001_App.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -21,15 +94,15 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="microservicecloud" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -38,15 +111,9 @@
         <option name="userSettingsFile" value="D:\DevelopmentEnvironment\repository\settings.xml" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1YNWGTpEbq7uWNTm24j112n6CyP" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -57,6 +124,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -86,7 +154,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Eureka_7002_App">
+  <component name="RunManager" selected="Spring Boot.Provider_Dept_8001_App">
     <configuration name="Config_Client_3355_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="microservicecloud-config-client-3355" />
       <extension name="coverage">
@@ -225,29 +293,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <option name="contentProportion" value="0.24541885" />
-          <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
@@ -274,11 +319,13 @@
       <workItem from="1584248974747" duration="851000" />
       <workItem from="1584357768751" duration="96000" />
       <workItem from="1584407290770" duration="145000" />
+      <workItem from="1584717166048" duration="940000" />
+      <workItem from="1586596302207" duration="420000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="430" y="67" key="#DeptProvider8001_App" timestamp="1582860305152">
@@ -289,9 +336,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="89" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1582873689731" />
-    <state x="392" y="89" width="1045" height="682" key="#Project_Structure" timestamp="1583054265022">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="353" y="89" width="1045" height="682" key="#Project_Structure" timestamp="1584717280369">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
+    <state x="353" y="89" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1584717280369" />
     <state x="392" y="89" width="1045" height="682" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1583054265022" />
     <state x="392" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583038338442">
       <screen x="0" y="0" width="1600" height="860" />
@@ -305,42 +353,66 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583131721016" />
-    <state width="1557" height="230" key="GridCell.Tab.0.bottom" timestamp="1583131902782">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="230" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583131902782" />
-    <state width="1557" height="230" key="GridCell.Tab.0.center" timestamp="1583131902782">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="230" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583131902782" />
-    <state width="1557" height="230" key="GridCell.Tab.0.left" timestamp="1583131902782">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="230" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583131902782" />
-    <state width="1557" height="230" key="GridCell.Tab.0.right" timestamp="1583131902782">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1557" height="230" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583131902782" />
-    <state width="1152" height="303" key="GridCell.Tab.1.bottom" timestamp="1583055965376">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1152" height="303" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583055965376" />
-    <state width="1152" height="303" key="GridCell.Tab.1.center" timestamp="1583055965376">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1152" height="303" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583055965376" />
-    <state width="1152" height="303" key="GridCell.Tab.1.left" timestamp="1583055965376">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1152" height="303" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583055965376" />
-    <state width="1152" height="303" key="GridCell.Tab.1.right" timestamp="1583055965376">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1152" height="303" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583055965376" />
-    <state x="271" y="10" width="1202" height="850" key="SettingsEditor" timestamp="1584357811851">
+    <state width="1032" height="221" key="GridCell.Tab.0.bottom" timestamp="1584718122460">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="271" y="10" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584357811851" />
+    <state width="1032" height="221" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584718122460" />
+    <state width="1557" height="230" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583131902782" />
+    <state width="1032" height="221" key="GridCell.Tab.0.center" timestamp="1584718122460">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1584718122460" />
+    <state width="1557" height="230" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583131902782" />
+    <state width="1032" height="221" key="GridCell.Tab.0.left" timestamp="1584718122460">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1584718122460" />
+    <state width="1557" height="230" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583131902782" />
+    <state width="1032" height="221" key="GridCell.Tab.0.right" timestamp="1584718122460">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1584718122460" />
+    <state width="1557" height="230" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583131902782" />
+    <state width="1032" height="221" key="GridCell.Tab.1.bottom" timestamp="1584718122460">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584718122460" />
+    <state width="1152" height="303" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583055965376" />
+    <state width="1032" height="221" key="GridCell.Tab.1.center" timestamp="1584718122460">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1584718122460" />
+    <state width="1152" height="303" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583055965376" />
+    <state width="1032" height="221" key="GridCell.Tab.1.left" timestamp="1584718122460">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1584718122460" />
+    <state width="1152" height="303" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583055965376" />
+    <state width="1032" height="221" key="GridCell.Tab.1.right" timestamp="1584718122460">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1584718122460" />
+    <state width="1152" height="303" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583055965376" />
+    <state width="1032" height="221" key="GridCell.Tab.2.bottom" timestamp="1584718122461">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.2.bottom/0.0.1440.860@0.0.1440.860" timestamp="1584718122461" />
+    <state width="1032" height="221" key="GridCell.Tab.2.center" timestamp="1584718122461">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.2.center/0.0.1440.860@0.0.1440.860" timestamp="1584718122461" />
+    <state width="1032" height="221" key="GridCell.Tab.2.left" timestamp="1584718122461">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.2.left/0.0.1440.860@0.0.1440.860" timestamp="1584718122461" />
+    <state width="1032" height="221" key="GridCell.Tab.2.right" timestamp="1584718122461">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1032" height="221" key="GridCell.Tab.2.right/0.0.1440.860@0.0.1440.860" timestamp="1584718122461" />
+    <state x="271" y="10" width="1202" height="850" key="SettingsEditor" timestamp="1586596333389">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="271" y="10" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1586596333389" />
     <state x="301" y="10" width="1202" height="850" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583131727551" />
     <state x="435" y="132" key="SpringBootCustomization" timestamp="1583041782018">
       <screen x="0" y="0" width="1600" height="860" />
@@ -359,9 +431,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1582787893935" />
-    <state x="508" y="151" key="spring file set editor" timestamp="1583054261002">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="457" y="151" key="spring file set editor" timestamp="1584717218981">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
+    <state x="457" y="151" key="spring file set editor/0.0.1440.860@0.0.1440.860" timestamp="1584717218981" />
     <state x="508" y="151" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1583054261002" />
   </component>
 </project>
